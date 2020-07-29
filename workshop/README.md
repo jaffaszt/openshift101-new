@@ -51,12 +51,11 @@ export CLUSTER_NAME=<your_cluster_name>
 ibmcloud ks cluster config --cluster $CLUSTER_NAME
 ```
 
-3. Validate proper configuration
+4. Validate proper configuration
 ```shell
 kubectl get namespace
 ```
-
-4. You should see output similar to the following, if so, then your're ready to continue.
+You should see output similar to the following, if so, then your're ready to continue.
 
 ```shell
 NAME              STATUS   AGE
