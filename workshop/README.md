@@ -50,8 +50,10 @@ export CLUSTER_NAME=<your_cluster_name>
 ```shell
 ibmcloud ks cluster config --cluster $CLUSTER_NAME
 ```
+4. Log in to your OpenShift cluster ====> click on the  LAB 1 Excersie 3  step 1 , this will run the oc login command with your keys and cluster details 
+![](README_IMAGES/CLIlogin.png)
 
-4. Validate proper configuration
+5. Validate proper configuration
 ```shell
 kubectl get namespace
 ```
