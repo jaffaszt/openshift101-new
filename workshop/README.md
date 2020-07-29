@@ -31,8 +31,56 @@ you will be using the lab terminal to access your cluster. The terminal is runni
 2. Enter your IBM Cloud credentials when prompted.
   **Note:** If you have a federated ID, use `ibmcloud login --sso` to log in to the IBM Cloud CLI. Enter your user name, and use the provided URL in your CLI output to retrieve your one-time passcode. You know you have a federated ID when the login fails without the `--sso` and succeeds with the `--sso` option.
   
-3. Select an account Enter a number : 2 ( DTE Cloud Platform account where your preconfigured cluster is)   
+3. Select an account Enter a number : 2 DTE Cloud Platform ( account where your preconfigured cluster is)   
  
+# Configure Kubectl to point to IBM Cloud Kubernetes Service
+1. List the clusters in your account:
+
+```shell
+ibmcloud ks clusters
+```
+
+2. Set an environment variable that will be used in subsequent commands in this lab.
+
+```shell
+export CLUSTER_NAME=<your_cluster_name>
+```
+
+3. Configure `kubectl` to point to your cluster
+```shell
+ibmcloud ks cluster config --cluster $CLUSTER_NAME
+```
+
+3. Validate proper configuration
+```shell
+kubectl get namespace
+```
+
+4. You should see output similar to the following, if so, then your're ready to continue.
+
+```shell
+NAME              STATUS   AGE
+default           Active   125m
+ibm-cert-store    Active   121m
+ibm-system        Active   124m
+kube-node-lease   Active   125m
+kube-public       Active   125m
+kube-system       Active   125m
+```
+
+# Download the Workshop Source Code
+Repo `guestbook` has the application that we'll be deploying.
+While we're not going to build it we will use the deployment configuration files from that repo.
+Guestbook application has two versions v1 and v2 which we will use to demonstrate some rollout
+functionality later. All the configuration files we use are under the directory guestbook/v1.
+
+Repo `kube101` contains the step by step instructions to run the workshop.
+
+```shell
+git clone https://github.com/IBM/guestbook.git
+git clone https://github.com/IBM/kube101.git
+```
+
  
  
  
