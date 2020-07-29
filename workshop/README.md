@@ -86,18 +86,6 @@ git clone https://github.com/IBM/kube101.git
  
  
 # The LAB 
+From this point on run Lab1 , Lab2 , Lab3 from (https://github.com/jaffaszt/kube101/tree/master/workshop/Lab1)
 [OpenShift 101: Learn the Basics of Red Hat OpenShift on IBM Cloud](https://ibm-developer.gitbook.io/openshift101/)
 
-# Usefull Links :
-
-[Call for Code](https://developer.ibm.com/callforcode/)
-
-[IBM Developer Website](https://developer.ibm.com/)
-
-[Watson Services](https://cloud.ibm.com/catalog?category=ai)
-
-[IBM Cloud Dashboard](https://cloud.ibm.com/)
-
-[OpenShift Labs](https://github.com/openshift-labs/starter-guides)
-
-[Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data )
