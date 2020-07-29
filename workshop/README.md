@@ -1,12 +1,12 @@
 
-# 1. Register to IBM Cloud 
+# Register to IBM Cloud 
 
 [Register IBM Cloud](http://ibm.biz/tlv-06-08-2020-openshift101)
 
 Please make sure to run all steps to get a valid IBM Lite Cloud account 
 ![](README_IMAGES/Register.png)
 
-# 2. Get a preconfigured OpenShift environment available for four hours at no charge
+# Get a preconfigured OpenShift environment available for four hours at no charge
 1. [access to IBM Openshift  Cluster]( https://developer.ibm.com/openlabs/openshift)
 
 2. Click on the Lunch Lab of Lab1   
@@ -25,7 +25,7 @@ A cluster will be allocated for you , this might take a few secounds....
 # FROM this point on
 you will be using the lab terminal to access your cluster. The terminal is running on an IBM Cloud virtual server instance (VSI). The IBM Cloud CLI and Red Hat OpenShift CLI  and KUBECTL CLI have already been installed for you. 
  
-# Step 3. Login to IBMCLOUD and your Openshift cluster 
+# Login to IBMCLOUD and your Openshift cluster 
  
 1. On the Terminal (at the right side of the screen) log in to the IBM Cloud CLI: `ibmcloud login -a cloud.ibm.com -r eu-gb -g default`.
 2. Enter your IBM Cloud credentials when prompted.
