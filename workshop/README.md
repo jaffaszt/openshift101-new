@@ -6,15 +6,12 @@
 Please make sure to run all steps to get a valid IBM Lite Cloud account 
 ![](README_IMAGES/Register.png)
 
-# 2 Get access to IBM Kubernetes Cluster
-[access to IBM Openshift  Cluster]( https://os101tlv.mybluemix.net)
+# 2 Get a preconfigured OpenShift environment available for four hours at no charge
+1. [access to IBM Openshift  Cluster]( https://developer.ibm.com/openlabs/openshift)
 
-Use :  
-     Lab Key : `oslab`
- 
-  IBMid : `your emailRegister to IBM Cloud`    
+2. Click on the Lunch Lab of Lab1   
 
-![](README_images/oslab.png)
+![](README_IMAGES/oc.png)
 
 Then follow the instructions ( it will look like this ) 
 ![](README_images/connectToYouCluster.png)
