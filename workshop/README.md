@@ -29,11 +29,13 @@ you will be using the lab terminal to access your cluster. The terminal is runni
  
 1. On the Terminal (at the right side of the screen) log in to the IBM Cloud CLI: `ibmcloud login -a cloud.ibm.com -r eu-gb -g default`.
 2. Enter your IBM Cloud credentials when prompted.
-2. When creating a project (exercise 1 ) please add your initials to the name example-healthxx  so you will have a unique project (as  it is possible that you will share your cluster with another student ) 
-
-3. In Exercise 4 ( enable auroscaler ) please notice to update the correct namespace (line5 ) and Deployment name (node-s-2-i-openshift instaed of example  )  https://ibm-developer.gitbook.io/openshift101/workshop/exercise-04#enable-autoscaler 
-
-4. You could also run Exercise 6 . For that you will need to either use cloudshell with https://shell.cloud.ibm.com/ and install Docker there , or go over the [Setup CLI Access for the cluster](https://ibm-developer.gitbook.io/openshift101/getting-started/setup_cli) and then install Docker 
+  **Note:** If you have a federated ID, use `ibmcloud login --sso` to log in to the IBM Cloud CLI. Enter your user name, and use the provided URL in your CLI output to retrieve your one-time passcode. You know you have a federated ID when the login fails without the `--sso` and succeeds with the `--sso` option.
+  
+3. Select an account Enter a number : 2 ( DTE Cloud Platform account where your preconfigured cluster is)   
+ 
+ 
+ 
+ 
 # The LAB 
 [OpenShift 101: Learn the Basics of Red Hat OpenShift on IBM Cloud](https://ibm-developer.gitbook.io/openshift101/)
 
