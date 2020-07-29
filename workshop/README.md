@@ -86,6 +86,6 @@ git clone https://github.com/IBM/kube101.git
  
  
 # The LAB 
-From this point on run Lab1 , Lab2 , Lab3 from (https://github.com/jaffaszt/kube101/tree/master/workshop/Lab1)
+From this point on run Lab1 , Lab2 , Lab3 from (https://github.com/IBM/kube101/tree/master/workshop/Lab1)
 [OpenShift 101: Learn the Basics of Red Hat OpenShift on IBM Cloud](https://ibm-developer.gitbook.io/openshift101/)
 
