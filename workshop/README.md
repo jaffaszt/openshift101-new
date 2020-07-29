@@ -6,7 +6,7 @@
 Please make sure to run all steps to get a valid IBM Lite Cloud account 
 ![](README_IMAGES/Register.png)
 
-# 2 Get a preconfigured OpenShift environment available for four hours at no charge
+# 2. Get a preconfigured OpenShift environment available for four hours at no charge
 1. [access to IBM Openshift  Cluster]( https://developer.ibm.com/openlabs/openshift)
 
 2. Click on the Lunch Lab of Lab1   
