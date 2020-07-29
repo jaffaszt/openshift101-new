@@ -1,3 +1,3 @@
 # Introduction to Kubernetes102 kubectl by Jaffa Sztejnbok 
 
-[Presentation](!Kubernetes 102 B - Intro to Containers & k8s(1).pdf)
+[Presentation](Kubernetes%20102%20B%20-%20Intro%20to%20Containers%20&%20k8s(1).pdf)
