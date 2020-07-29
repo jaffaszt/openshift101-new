@@ -11,7 +11,7 @@ Please make sure to run all steps to get a valid IBM Lite Cloud account
 
 2. Click on the Lunch Lab of Lab1   
 
-![](README_IMAGES/oc.png)
+![](README_IMAGES/OC.png)
 
 Then follow the instructions ( it will look like this ) 
 ![](README_images/connectToYouCluster.png)
