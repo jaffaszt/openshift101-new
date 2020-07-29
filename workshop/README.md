@@ -22,12 +22,13 @@ A cluster will be allocated for you , this might take a few secounds....
 ![](README_IMAGES/CLI.png)
 
  
-# FROM this point on you will be using the lab terminal to access your cluster. The terminal is running on an IBM Cloud virtual server instance (VSI). The IBM Cloud CLI and Red Hat OpenShift CLI  and KUBECTL CLI have already been installed for you. 
+# FROM this point on
+you will be using the lab terminal to access your cluster. The terminal is running on an IBM Cloud virtual server instance (VSI). The IBM Cloud CLI and Red Hat OpenShift CLI  and KUBECTL CLI have already been installed for you. 
  
 # Step 3. Login to IBMCLOUD and your Openshift cluster 
  
-1. On the Terminal (at the right side of the screen) write 
-ibmcloud login -a cloud.ibm.com -r eu-gb -g default
+1. On the Terminal (at the right side of the screen) log in to the IBM Cloud CLI: `ibmcloud login -a cloud.ibm.com -r eu-gb -g default`.
+2. Enter your IBM Cloud credentials when prompted.
 2. When creating a project (exercise 1 ) please add your initials to the name example-healthxx  so you will have a unique project (as  it is possible that you will share your cluster with another student ) 
 
 3. In Exercise 4 ( enable auroscaler ) please notice to update the correct namespace (line5 ) and Deployment name (node-s-2-i-openshift instaed of example  )  https://ibm-developer.gitbook.io/openshift101/workshop/exercise-04#enable-autoscaler 
