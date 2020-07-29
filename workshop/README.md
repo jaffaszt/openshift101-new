@@ -4,7 +4,7 @@
 [Register IBM Cloud](http://ibm.biz/tlv-06-08-2020-openshift101)
 
 Please make sure to run all steps to get a valid IBM Lite Cloud account 
-![](README_images/Register.png)
+![](README_IMAGES/Register.png)
 
 # 2 Get access to IBM Kubernetes Cluster
 [access to IBM Openshift  Cluster]( https://os101tlv.mybluemix.net)
