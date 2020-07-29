@@ -31,7 +31,7 @@ you will be using the lab terminal to access your cluster. The terminal is runni
 2. Enter your IBM Cloud credentials when prompted.
   **Note:** If you have a federated ID, use `ibmcloud login --sso` to log in to the IBM Cloud CLI. Enter your user name, and use the provided URL in your CLI output to retrieve your one-time passcode. You know you have a federated ID when the login fails without the `--sso` and succeeds with the `--sso` option.
   
-3. Select an account Enter a number : 2 DTE Cloud Platform ( account where your preconfigured cluster is)   
+3. Select an account Enter a number : `the number of DTE Cloud Platform probably 2  `  ( account where your preconfigured cluster is)   
  
 # Configure Kubectl to point to IBM Cloud Kubernetes Service
 1. List the clusters in your account:
