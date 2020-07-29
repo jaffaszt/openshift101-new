@@ -13,8 +13,13 @@ Please make sure to run all steps to get a valid IBM Lite Cloud account
 
 ![](README_IMAGES/OC.png)
 
-Then follow the instructions ( it will look like this ) 
-![](README_images/connectToYouCluster.png)
+A cluster will be allocated for you , this might take a few secounds.... 
+( optional not part of the workshop  : you may run Lab 1 ,2 ,3 to learn about Openshift ) 
+3. click on Exercise 3 in Lab 1 
+4. click on Using the command line interface (CLI) 
+![](README_IMAGES/CLI.png)
+
+ 
 
 # Step 3. Run the LAB 
 # Befor you run the lab Please notice: 
