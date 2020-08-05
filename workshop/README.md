@@ -13,4 +13,4 @@ Please make sure to run all steps to get a valid IBM Lite Cloud account
 
 ![](README_IMAGES/OC.png)
 
-A cluster will be allocated for you , this might take a few secounds....  you may now run Lab 1 ,2 ,3 to learn about Openshift ) 
+A cluster will be allocated for you , this might take a few secounds....  you may now run Lab 1 ,2 ,3 to learn about Openshift 
