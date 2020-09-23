@@ -1,7 +1,7 @@
 
 # Register to IBM Cloud 
 
-[Register IBM Cloud](http://ibm.biz/tlv-06-08-2020-openshift101)
+[Register IBM Cloud](https://ibm.biz/BdqJdW)
 
 Please make sure to run all steps to get a valid IBM Lite Cloud account 
 ![](README_IMAGES/Register.png)
