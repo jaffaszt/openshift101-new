@@ -1,7 +1,7 @@
 
 # Register to IBM Cloud 
 
-[Register IBM Cloud](https://ibm.biz/BdqJdW)
+[Register IBM Cloud](https://ibm.biz/Bdq99A)
 
 Please make sure to run all steps to get a valid IBM Lite Cloud account 
 ![](README_IMAGES/Register.png)
