@@ -1,9 +1,9 @@
 
 # Register to IBM Cloud 
 
-[Register IBM Cloud](https://ibm.biz/BdfY4S)
+[Register IBM Cloud](https://ibm.biz/Bdfv94)
 
-Please make sure to run all steps to get a valid IBM Lite Cloud account 
+Please make sure to run all steps to get a valid IBM Cloud account 
 ![](README_IMAGES/Register.png)
 
 # Get a preconfigured OpenShift environment available for four hours at no charge
