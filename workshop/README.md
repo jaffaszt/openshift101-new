@@ -1,7 +1,7 @@
 
 # Register to IBM Cloud 
 
-[Register IBM Cloud](https://ibm.biz/Bdf853)
+[Register IBM Cloud](https://ibm.biz/BdfwBt)
 
 Please make sure to run all steps to get a valid IBM Cloud account 
 ![](README_IMAGES/Register.png)
